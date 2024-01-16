@@ -30,6 +30,9 @@ IMGCOM is a simple and lightweight image compressor designed to reduce the file 
 
 - No external dependencies are required. The application runs in any modern web browser.
 
+## Landing Page
+https://imgcom-1.vercel.app/
+
 ## Contributing
 
 Contributions to IMGCOM are welcome. If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue on the GitHub repository.
