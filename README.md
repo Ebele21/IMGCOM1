@@ -4,6 +4,8 @@
 
 IMGCOM is a simple and lightweight image compressor designed to reduce the file size of images without compromising their quality. This software is built using HTML, CSS, and JavaScript, making it easy to use and deploy in various environments.
 
+This is a repository for ALX MVP project
+
 ## Features
 
 - **File Upload**: Utilize the file input to easily upload images for compression.
